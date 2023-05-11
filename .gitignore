@@ -1,3 +1,4 @@
 .ipynb_checkpoints/
-dataset_1M.json
-lemmatized_texts.txt
+*.csv
+*.json
+*.txt
